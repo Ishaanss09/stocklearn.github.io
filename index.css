@@ -1,0 +1,40 @@
+*{
+  font-family:'Segoe UI' ;
+  
+}
+.navbar-brand{
+  font-family: sans-serif;
+  color: aquamarine;
+}
+.a {
+    color: aqua;
+  }
+
+.a:hover {
+    color: rgb(226, 21, 21) ;
+  } 
+
+
+
+.container{
+  font-family: sans-serif;
+  font-size: large;
+}
+.footer-content{
+  background-color: rgb(85, 82, 82);
+  font-family: sans-serif;
+  font-size: small;
+  color: whitesmoke;
+  
+}
+
+.footer-bottom p{
+  background-color: rgb(255, 255, 255);
+  font-family: sans-serif;
+  color: whitesmoke;
+}
+.footer-bottom span{
+  color: rgb(252, 214, 0);
+  font-weight: 400;
+
+}

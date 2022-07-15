@@ -1,0 +1,29 @@
+::after.container-fluid{
+    font-family:sans-serif;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: grid;
+    grid-template-columns: repeat(autofit);
+    grid-column-gap: 16px;
+    grid-row-gap: 30px;
+    margin-top: 15px;
+  }
+
+  .footer-content{
+    background-color: rgb(17, 16, 16);
+    font-family: sans-serif;
+    font-size: small;
+    color: whitesmoke;
+    
+  }
+  
+  .footer-bottom p{
+    background-color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    color: whitesmoke;
+  }
+  .footer-bottom span{
+    opacity: .5;
+    font-weight: 400;
+  
+  }
